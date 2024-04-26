@@ -6885,7 +6885,7 @@
                                 })
                             }), (0, r.jsx)("a", {
                                 className: "App-link App-buy kablammo-font",
-                                href: "https://dedust.io/swap/TON/EQCUBcy-K56xWCKSAtf2wMfmImNmDshmYlDxvKSDuyK82gBa",
+                                href: "https://dedust.io/swap/TON/EQD6Ht0_oNDrsk8MJQuNrF6VYQ72XlxamOlHB1mv3ruV4CzB",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 children: "BUY $DUR"
